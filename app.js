@@ -1,3 +1,4 @@
+import "./env.js";
 import express from 'express';
 const app = express();
 import session from 'express-session';
